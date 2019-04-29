@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"throw",
+				"throws"
+			],
+			[
+				"N",
+				"NullPointerException"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/2months/reactjs-tutorials/my-app/src/index.js",
+		"/E/2months/reactjs-tutorials/my-app/src/App.css",
+		"/E/2months/reactjs-tutorials/my-app/public/index.html",
+		"/E/2months/reactjs-tutorials/my-app/src/App.js",
+		"/E/2months/reactjs-tutorials/my-app/src/components/Democlass.js",
+		"/E/2months/reactjs-tutorials/my-app/src/components/demo.css",
+		"/E/2months/reactjs-tutorials/my-app/src/components/greet.js",
+		"/E/reactjs-tutorials/my-app/src/index.css",
+		"/E/reactjs-tutorials/my-app/src/App.js",
+		"/E/reactjs-tutorials/my-app/src/index.js",
+		"/E/reactjs-tutorials/my-app/src/App.css",
+		"/E/reactjs-tutorials/my-app/public/index.html",
+		"/E/reactjs-tutorials/my-app/src/components/greet.js",
+		"/C/Users/Dwarika/AppData/Roaming/npm-cache/anonymous-cli-metrics.json",
+		"/E/reactjs-tutorials/my-app/components/greet.js",
+		"/E/reactjs-tutorials/my-app/node_modules/react/index.js",
+		"/E/reactjs-tutorials/my-app/src/serviceWorker.js",
+		"/E/reactjs-tutorials/my-app/src/logo.svg",
+		"/C/Users/Dwarika/Desktop/practicals/java/Exception.java",
+		"/C/Users/Dwarika/Desktop/practicals/java/Filehanddling.java",
+		"/C/Users/Dwarika/Desktop/practicals/java/Reading.java",
+		"/C/Users/Dwarika/Desktop/practicals/java/Helloworld.java",
+		"/C/Users/Dwarika/Desktop/practicals/heapsort.py",
+		"/C/Users/Dwarika/Downloads/node-drawing-game/app.js",
+		"/C/Users/Dwarika/Desktop/dwarika_projects/website/index.html",
+		"/E/reactjs-tutorials/my-app/yarn.lock",
+		"/E/reactjs-tutorials/my-app/package.json",
+		"/C/Users/Dwarika/Desktop/java programs/Test.java",
+		"/C/Users/Dwarika/Desktop/css2.css",
+		"/C/Users/Dwarika/Desktop/calc.html",
+		"/C/Users/Dwarika/Desktop/angular/typing tutor/index.html",
+		"/C/Users/Dwarika/Desktop/angular/typing.html",
+		"/C/Users/Dwarika/Desktop/aj.html",
+		"/C/Users/Dwarika/Desktop/ranuuu.html",
+		"/C/Users/Dwarika/Desktop/angular/index.html",
+		"/C/Users/Dwarika/Desktop/angular.js",
+		"/C/Users/Dwarika/Downloads/OpenCV-master/OpenCV-master/Facial_Recognition_Part2.py",
+		"/C/Users/Dwarika/Downloads/OpenCV-master/OpenCV-master/List/Ex1.py",
+		"/C/Users/Dwarika/Desktop/DwarikaProject2/app.json",
+		"/C/Users/Dwarika/Desktop/DwarikaProject2/App.js",
+		"/C/Users/Dwarika/Desktop/dwarika/my.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
